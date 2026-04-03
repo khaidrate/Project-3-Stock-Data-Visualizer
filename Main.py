@@ -1,10 +1,8 @@
 # =============================================================================
 # main.py — Entry Point
-# =============================================================================
 # Ties all 6 task modules together into one cohesive application.
 # Nothing needs to be changed about this because this doesn't really do anything by itself
-# Run with:
-#   python main.py
+# Run with: python main.py
 # =============================================================================
 
 from task1_stock_symbol import get_stock_symbol
