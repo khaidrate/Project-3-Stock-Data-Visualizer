@@ -7,7 +7,6 @@ from datetime import datetime
 
 DATE_FORMAT = "%Y-%m-%d"
 
-
 def get_begin_date() -> datetime:
     """
     Prompts the user to enter a start date in YYYY-MM-DD format.
